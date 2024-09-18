@@ -22,8 +22,12 @@ Enter the rate of interest: 5
 Enter the time period (in years): 2
 The simple interest is: 100.0
 ```
+p = int(input("what is the principle amount? ")
+print("1000*2/5")
+answer = ((p*R*t)/(100))
+print(f"The simple interest is: {answer}")
+answer= 
 
----
 
 ### Lab 2: **Body Mass Index (BMI) Calculator**
 
@@ -46,6 +50,12 @@ Enter your height (m): 1.75
 Your BMI is: 22.86
 You are within the healthy BMI range.
 ```
+kg = int(input("what is your weight?"))
+m = int(input("what is your heaight?"))
+BMI = (22.86) # you are in a healthy BMI range
+print(f"the weight and height is: {BMI}")
+
+
 
 ---
 
