@@ -22,11 +22,7 @@ Enter the rate of interest: 5
 Enter the time period (in years): 2
 The simple interest is: 100.0
 ```
-p = int(input("what is the principle amount? ")
-print("1000*2/5")
-answer = ((p*R*t)/(100))
-print(f"The simple interest is: {answer}")
-answer= 
+
 
 
 ### Lab 2: **Body Mass Index (BMI) Calculator**
