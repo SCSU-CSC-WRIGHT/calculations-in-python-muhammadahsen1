@@ -1,4 +1,8 @@
-celsius = int(input("temptrature in celsius")
-fahrenheit = int(input("from celsius to fahrenheit")
-answer = 77.0 # this is answer of temprature from celsius to fahrenheit
-print(f"temprature from cesius to fahrenheit is: {answer}")
+# Prompt the user to enter the temperature in Celsius
+celsius = float(input("Enter the temperature in Celsius: "))
+
+# Convert Celsius to Fahrenheit using the formula
+fahrenheit = (celsius * 9/5) + 32
+
+# Print the result
+print(f"The temperature in Fahrenheit is: {fahrenheit}")
